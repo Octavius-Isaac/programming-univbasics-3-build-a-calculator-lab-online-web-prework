@@ -24,8 +24,11 @@ division (4, 2)
 
 def multiplication(num1, num2)
 multiply = num1 * num2
-
+puts multiply
 end
+
+# The Multiplication Argument
+multiplication (4, 2)
 
 def modulo(num1, num2)
 
