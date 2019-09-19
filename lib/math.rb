@@ -39,5 +39,9 @@ end
 modulo (5, 2)
 
 def square_root(num)
-squareroot = 
+squareroot = sqrt(num)
+puts squareroot 
 end
+
+# The Squareroot Argument
+square_root ()
