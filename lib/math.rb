@@ -15,8 +15,11 @@ end
 subtraction (2, 4)
 
 def division(num1, num2)
-
+divide = num1 / num2
 end
+
+# The Divivision Argument
+division (4, 2)
 
 def multiplication(num1, num2)
 
