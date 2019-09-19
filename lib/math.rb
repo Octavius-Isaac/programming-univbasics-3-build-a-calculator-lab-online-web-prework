@@ -44,4 +44,4 @@ puts squareroot
 end
 
 # The Squareroot Argument
-square_root ()
+square_root (100)
