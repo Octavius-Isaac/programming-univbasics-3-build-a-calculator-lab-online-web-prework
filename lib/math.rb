@@ -1,6 +1,10 @@
 def addition(num1, num2)
-
+sum = num1 + num2
+puts sum 
 end
+
+# The Addition Arument 
+addition(2, 4)
 
 def subtraction(num1, num2)
 
