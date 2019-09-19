@@ -3,12 +3,16 @@ sum = num1 + num2
 puts sum 
 end
 
-# The Addition Arument 
+# The Addition Argument 
 addition (2, 4)
 
 def subtraction(num1, num2)
-
+difference = num1 - num2
+puts difference 
 end
+
+# The Difference Argument
+subtraction (2, 4)
 
 def division(num1, num2)
 
